@@ -1,0 +1,27 @@
+{
+  "version": "3.96.33815.0",
+  "course_id": "6ZTvBtZ09Qc",
+  "title": "ARC Reviews: Drag and Drop",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5nGEysX5B6q",
+      "title": "ARC Reviews: Drag and Drop",
+      "scene_index": "1.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 550
+  },
+  "stage": {
+    "width": 720,
+    "height": 479
+  }
+}
